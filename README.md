@@ -37,8 +37,16 @@ Runtime environment should be at least nodejs version 16.4
 
 ### Screenshots
 
+
 ![alt text](assets/vscode.png)
+
+
 ![alt text](assets/gitbash.png)
+
+
+![alt text](assets/team%20profile%20output.png)
+
+
 ## License
 
 This project is under the MIT license.
